@@ -1,0 +1,7 @@
+
+# for unittest
+nose
+
+# for static code analysis
+flake8
+pylint
